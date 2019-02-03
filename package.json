@@ -1,0 +1,23 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "CLI program",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eescobar27/cli.git"
+  },
+  "author": "@eescobar27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eescobar27/cli/issues"
+  },
+  "homepage": "https://github.com/eescobar27/cli#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
