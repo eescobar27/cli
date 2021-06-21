@@ -1,8 +1,10 @@
+"use strict";
 
 const COMMANDS = {
+	CLEAR: "clear",
 	HELP: "help",
 	EXIT: "exit",
-	QUIT:  "quit"
+	QUIT: "quit"
 };
 
 module.exports = {
