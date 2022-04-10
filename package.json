@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/eescobar27/cli#readme",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
